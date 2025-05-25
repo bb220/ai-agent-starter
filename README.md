@@ -12,8 +12,7 @@ This agent uses a single OpenAI model and a customizable set of tools to answer 
 - **app/**: Contains the main application scripts and tools.
   - **agent.py**: Core functionalities for the AI agent.
   - **main.py**: Entry point for running the application.
-  - **tools/**: Directory containing utility scripts.
-    - **balance_tool.py**: Tool for managing user balance functionalities.
+  - **tools/**: Directory containing the set of tools
 - **.env**: Environment variables configuration file.
 - **requirements.txt**: Lists all Python dependencies required for the project.
 
